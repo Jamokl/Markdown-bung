@@ -117,6 +117,22 @@ So sieht eine Fußnote aus. Wie dies aussieht findet man heraus wenn man draufkl
 Beschreibung einer Fußnote[^1]
 [^1]: Eine Fußnote wird mit [^BeispielText] deklariert und mit [^BeispielText] : Text deklariert
 
+### Task Listen
+Task Listen werden in das File eingefügt in dem man vor dem Wort ein Minus und dann "[ ]" oder "[x]" setzt. Dies sieht wie folgt aus.
+
+- [ ] Test
+- [x] Test
+- [ ] Test
+- [ ] Test
+- [x] Test
+- [x] Test
+- [x] Test
+
+### durchgestrichene Absätze
+Bei Durchgestrichenen Absätzen handelt es sich um durchgestrichenen Text. Das funktioniert mit zwei Wellen vor und nach dem Wort.
+
+~~Dies ist ein Test~~
+
 ### deaktivierte Urls
 Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folgenden Beispiel kann man sehen wied die funktioniert.
 
@@ -128,3 +144,4 @@ Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folg
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 * [Textformatierung mit Markdown](http://intranet.psych.uni-potsdam.de/moodle/help.php?file=markdown.html#:~:text=Aufz%C3%A4hlungspunkte,Das%20Leerzeichen%20ist%20wichtig.)
 * [Ionos](https://www.ionos.at/digitalguide/websites/web-entwicklung/markdown/#:~:text=%3A%2F%2Fexample.com)-,Tabellen,die%20entsprechenden%20Zellen%20mit%20Bindestrichen.)
+* [Github Blog](https://github.blog/2014-04-28-task-lists-in-all-markdown-documents/)
