@@ -133,6 +133,18 @@ Bei Durchgestrichenen Absätzen handelt es sich um durchgestrichenen Text. Das f
 
 ~~Dies ist ein Test~~
 
+### Text Highlighting
+Wenn man einen Text highlighten muss man vor und nach dem Wort jeweils zwei "=" Zeichen setzen.
+
+==Hallo==
+
+### hochgestellte und tiefgestellte zeichen
+Wenn man Zeichen oder Wörter hoch oder tief stellen will benutzt man "sup" und "sub"
+
+<sub>Hier benutze ich sub</sub>
+
+<sup>Hier benutze ich sup</sup>
+
 ### deaktivierte Urls
 Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folgenden Beispiel kann man sehen wied die funktioniert.
 
@@ -145,3 +157,4 @@ Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folg
 * [Textformatierung mit Markdown](http://intranet.psych.uni-potsdam.de/moodle/help.php?file=markdown.html#:~:text=Aufz%C3%A4hlungspunkte,Das%20Leerzeichen%20ist%20wichtig.)
 * [Ionos](https://www.ionos.at/digitalguide/websites/web-entwicklung/markdown/#:~:text=%3A%2F%2Fexample.com)-,Tabellen,die%20entsprechenden%20Zellen%20mit%20Bindestrichen.)
 * [Github Blog](https://github.blog/2014-04-28-task-lists-in-all-markdown-documents/)
+* [w3schools](https://www.w3schools.io/file/markdown-text-highlight/)
