@@ -112,9 +112,9 @@ Blockzitate werden mit ein Dach ">" Symbol gekennzeichnet. Wenn man mehrere anei
 >>>>eingerückt.
 
 ### Fußnoten
-So sieht eine Fußnote aus.
+So sieht eine Fußnote aus. Wie dies aussieht findet man heraus wenn man draufklickt.
 
-[^1]()
+[^1](Fußnote.md)
 
 ### deaktivierte Urls
 Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folgenden Beispiel kann man sehen wied die funktioniert.
