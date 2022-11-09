@@ -82,10 +82,31 @@ Wenn man eine Link einfügen will und diesem einen Text anfügen will macht man 
 
 "[Text] (Link)"
 
-[Hier kommt man zum Beispiel zu Google](https://www.google.at/) 
+[Hier kommt man zum Beispiel zu Google.](https://www.google.at/) 
+
+### Quellcode Angabe
+Wenn man ein Code Ausschnitt in das Dokument einfügen will geht das in dem man drei einzelne Anführungszeichen vor und nach dem Text einfügt.
+
+```
+Dies funktioniert nicht nur mit Code sondern auch mit Text!
+```
+
+### Tabellen
+Tabellen erstellt man mit sogenannten Pipes(|) vor und nach dem Text. Um Überschriften abzutrennen von Text benutzt man Bindestriche zwischen den Pipes. Mit Doppelpunkte vor oder nach den Bindestrichen kann man ihn nach links oder rechts zentrieren. Wenn man keine Doppelpunkte benutzt zentriert sich der Text.
+|Text|Text|
+|:----|----:|
+|Hallo Test|Hier Test|
+|ist|ein|
+|Text|!|
+
+### Bilder
+Auch Bilder können eingefügt werden. Dies funktioniert mit "![Alternativ-Text] (Pfad zum Bild)". So sieht das aus wenn es angewendet wird.
+![Bild nicht gefunden.]()
+
 
 # Quellen
 * [Wikipedia](https://de.wikipedia.org/wiki/Markdown)
 * [Markdown Syntax](https://markdown-syntax.de/Syntax/Horizontale-Linien/)
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 * [Textformatierung mit Markdown](http://intranet.psych.uni-potsdam.de/moodle/help.php?file=markdown.html#:~:text=Aufz%C3%A4hlungspunkte,Das%20Leerzeichen%20ist%20wichtig.)
+* [Ionos](https://www.ionos.at/digitalguide/websites/web-entwicklung/markdown/#:~:text=%3A%2F%2Fexample.com)-,Tabellen,die%20entsprechenden%20Zellen%20mit%20Bindestrichen.)
