@@ -101,8 +101,14 @@ Tabellen erstellt man mit sogenannten Pipes(|) vor und nach dem Text. Um Übersc
 
 ### Bilder
 Auch Bilder können eingefügt werden. Dies funktioniert mit "![Alternativ-Text] (Pfad zum Bild)". So sieht das aus wenn es angewendet wird.
-![Bild nicht gefunden.]()
+![Bild nicht gefunden.](Grosser_Panda.JPG "Panda")
 
+### Blockzitate
+
+### deaktivierte Urls
+Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folgenden Beispiel kann man sehen wied die funktioniert.
+
+`https://www.google.at/`
 
 # Quellen
 * [Wikipedia](https://de.wikipedia.org/wiki/Markdown)
