@@ -1,7 +1,5 @@
 # Übersicht über die Markdown Syntax 
-
 ## In diesem File beschäftigen wir uns mit der Syntax von Markdown und was das Ziel von Markdown ist.
-
 ### Theorie
 #### Was ist der Sinn hinter Markdown und warum wurde es erschaffen?
 
