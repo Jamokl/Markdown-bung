@@ -77,6 +77,13 @@ Und wenn man es nummeriert haben will .
 4. vor dem Satz.
 5. (1. oder 2. und so weiter) 
 
+### Links mit Textangabe
+Wenn man eine Link einfügen will und diesem einen Text anfügen will macht man es wie folgt.
+
+"[Text] (Link)"
+
+[Hier kommt man zum Beispiel zu Google](https://www.google.at/) 
+
 # Quellen
 * [Wikipedia](https://de.wikipedia.org/wiki/Markdown)
 * [Markdown Syntax](https://markdown-syntax.de/Syntax/Horizontale-Linien/)
