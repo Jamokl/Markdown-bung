@@ -104,6 +104,17 @@ Auch Bilder können eingefügt werden. Dies funktioniert mit "![Alternativ-Text]
 ![Bild nicht gefunden.](Grosser_Panda.JPG "Panda")
 
 ### Blockzitate
+Blockzitate werden mit ein Dach ">" Symbol gekennzeichnet. Wenn man mehrere aneinander Reiht wird es eingerückt.
+
+>Hallo
+>>Dies
+>>>Ist
+>>>>eingerückt.
+
+### Fußnoten
+So sieht eine Fußnote aus.
+
+[^1]()
 
 ### deaktivierte Urls
 Man kann Urls deaktivieren indem man sie unter zwei Graviszeichen setzt. Im folgenden Beispiel kann man sehen wied die funktioniert.
