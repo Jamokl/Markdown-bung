@@ -48,10 +48,37 @@ __Zum Beispiel kann mann es mit zwei Unterstrichen vor und nach dem Satz machen.
 **Aber auch mit zwei Sternen vor und nach dem Satz funktioniert es.**
 
 Allerdings kann man seine Wörter auch schief schreiben.
+
 _Dies funktioniert mit einem Unterstrich vor und nach dem Satz._ 
 *Und wie bei dem vorherigem natürlich auch wieder mit Sternen*
+
+Man kann auch beides kombinieren und einen Fetten und kursiven Text machen.
+
+***Dies funktioniert mit drei Sternen am Satzanfang und ende.***
+___Oder drei Unterstrichen am Anfang und Ende eines Satzes___
+
+### Aufzählungen in unterschiedlichen Ebenen
+Hier gibt mehrere Aufzählungszeichen.
+
+Das erste hierbei wären Punkte.
+
+* Hierbei einfach
+* einen Stern vor
+* den Satz machen!
+  * Mit einrückungen
+  * gibt es sogar
+  * Unterpunkte.
+
+Und wenn man es nummeriert haben will .
+
+1. Dann geht es
+2. mit der Zahl 
+3. und einem Punkt 
+4. vor dem Satz.
+5. (1. oder 2. und so weiter) 
 
 # Quellen
 * [Wikipedia](https://de.wikipedia.org/wiki/Markdown)
 * [Markdown Syntax](https://markdown-syntax.de/Syntax/Horizontale-Linien/)
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+* [Textformatierung mit Markdown](http://intranet.psych.uni-potsdam.de/moodle/help.php?file=markdown.html#:~:text=Aufz%C3%A4hlungspunkte,Das%20Leerzeichen%20ist%20wichtig.)
